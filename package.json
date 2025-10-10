@@ -106,6 +106,8 @@
   "pnpm": {
     "onlyBuiltDependencies": [
       "@swc/core",
+      "esbuild",
+      "@swc/core",
       "esbuild"
     ]
   }
