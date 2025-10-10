@@ -15,6 +15,7 @@ import AboutUs from "./pages/AboutUs";
 import Gallery from "./pages/Gallery";
 import Employment from "./pages/Employment";
 import Layout from "./components/site/Layout";
+import { Analytics } from "@vercel/analytics/react";
 
 const queryClient = new QueryClient();
 
@@ -39,6 +40,7 @@ const App = () => (
           </Routes>
         </Layout>
       </BrowserRouter>
+      <Analytics />
     </TooltipProvider>
   </QueryClientProvider>
 );
