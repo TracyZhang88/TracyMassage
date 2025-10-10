@@ -1,6 +1,4 @@
 packages:
   - '**'
 
-onlyBuiltDependencies:
-  - '@swc/core'
-  - 'esbuild'
+onlyBuiltDependenciesFile: pnpm-trusted-deps.json
