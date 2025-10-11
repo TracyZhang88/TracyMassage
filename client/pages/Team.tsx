@@ -39,10 +39,10 @@ export default function Team() {
     {
       name: "Sophia Nguyen",
       role: "Sports & Recovery Therapist",
-      img: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=800&auto=format&fit=crop&q=60",
-      specialties: "Sports massage, Cupping, Assisted Stretching",
+      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff448669e854242a6b21d4e157b7ef82a?format=webp&width=800",
+      specialties: "Relaxation massage, Oil massage",
       experience: "3 years",
-      languages: "English, Vietnamese",
+      languages: "English, Mandarin",
       bio: "Energizing techniques to aid mobility, reduce soreness, and speed recovery.",
     },
     {
