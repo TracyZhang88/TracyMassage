@@ -10,12 +10,12 @@ export default function Team() {
       bio: "Combines remedial methods with calming flow for balanced recovery and relaxation.",
     },
     {
-      name: "Sara Park",
+      name: "Angela",
       role: "Therapeutic Specialist",
       img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F59f5c96bebdd4387b0cf4e90be66463b?format=webp&width=800",
       specialties: "Aromatherapy, Full‑Body Relaxation",
-      experience: "5 years",
-      languages: "English, Korean",
+      experience: "3 Years",
+      languages: "English, Mandarin, Cantonese",
       bio: "Creates a serene experience using essential oils and flowing techniques.",
     },
     {
