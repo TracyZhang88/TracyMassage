@@ -27,6 +27,33 @@ export default function Team() {
       languages: "English, Chinese",
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
+    {
+      name: "Lily Chen",
+      role: "Deep Tissue Specialist",
+      img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&auto=format&fit=crop&q=60",
+      specialties: "Deep Tissue, Trigger Point, Myofascial Release",
+      experience: "6 years",
+      languages: "English, Mandarin",
+      bio: "Focused, restorative work targeting chronic tension and posture-related discomfort.",
+    },
+    {
+      name: "Sophia Nguyen",
+      role: "Sports & Recovery Therapist",
+      img: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=800&auto=format&fit=crop&q=60",
+      specialties: "Sports massage, Cupping, Assisted Stretching",
+      experience: "3 years",
+      languages: "English, Vietnamese",
+      bio: "Energizing techniques to aid mobility, reduce soreness, and speed recovery.",
+    },
+    {
+      name: "Mia Li",
+      role: "Hot Stone & Relaxation",
+      img: "https://images.unsplash.com/photo-1542596768-5d1d21f1cf98?w=800&auto=format&fit=crop&q=60",
+      specialties: "Hot Stone, Aromatherapy, Calming Flow",
+      experience: "4 years",
+      languages: "English, Cantonese",
+      bio: "Gentle, soothing approach perfect for deep relaxation and stress relief.",
+    },
   ];
 
   return (
