@@ -19,12 +19,12 @@ export default function Team() {
       bio: "Creates a serene experience using essential oils and flowing techniques.",
     },
     {
-      name: "Emily Brown",
+      name: "Ada",
       role: "Relaxation Therapist",
       img: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&auto=format&fit=crop&q=60",
-      specialties: "Relaxation, Prenatal",
+      specialties: "Oil massage, Relaxation massage",
       experience: "4 years",
-      languages: "English",
+      languages: "English, Chinese",
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
   ];
