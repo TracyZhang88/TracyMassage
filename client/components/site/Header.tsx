@@ -1,5 +1,7 @@
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
+import { Sheet, SheetContent, SheetTrigger, SheetClose } from "@/components/ui/sheet";
+import { Menu } from "lucide-react";
 
 function Logo() {
   return (
@@ -40,6 +42,7 @@ export default function Header() {
     <header className="sticky top-0 z-40 w-full border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between">
         <Logo />
+        {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-6 text-sm">
           {[
             { to: "/", label: "Home" },
@@ -71,6 +74,42 @@ export default function Header() {
               <Link to="/contact">Book Now</Link>
             </Button>
           )}
+          {/* Mobile menu */}
+          <Sheet>
+            <SheetTrigger asChild>
+              <Button variant="ghost" size="icon" className="md:hidden" aria-label="Open menu">
+                <Menu className="h-5 w-5" />
+              </Button>
+            </SheetTrigger>
+            <SheetContent side="right" className="p-6">
+              <nav className="grid gap-4 text-base">
+                {[
+                  { to: "/", label: "Home" },
+                  { to: "/about", label: "About Us" },
+                  { to: "/gallery", label: "Gallery" },
+                  { to: "/contact", label: "Contact Us" },
+                  { to: "/team", label: "Our Team" },
+                  { to: "/employment", label: "Employment" },
+                ].map((item) => (
+                  <SheetClose asChild key={item.to}>
+                    <NavLink
+                      to={item.to}
+                      className={({ isActive }) =>
+                        [
+                          "transition-colors",
+                          isActive || location.pathname === item.to
+                            ? "text-foreground font-medium"
+                            : "text-foreground/70 hover:text-foreground",
+                        ].join(" ")
+                      }
+                    >
+                      {item.label}
+                    </NavLink>
+                  </SheetClose>
+                ))}
+              </nav>
+            </SheetContent>
+          </Sheet>
         </div>
       </div>
     </header>
