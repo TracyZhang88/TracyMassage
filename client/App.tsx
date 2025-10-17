@@ -14,6 +14,7 @@ import AdminAppointments from "./pages/AdminAppointments";
 import AboutUs from "./pages/AboutUs";
 import Gallery from "./pages/Gallery";
 import Employment from "./pages/Employment";
+import Price from "./pages/Price";
 import Layout from "./components/site/Layout";
 import { Analytics } from "@vercel/analytics/react";
 
@@ -34,6 +35,7 @@ const App = () => (
             <Route path="/about" element={<AboutUs />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/employment" element={<Employment />} />
+            <Route path="/price" element={<Price />} />
             <Route path="/admin/appointments" element={<AdminAppointments />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
