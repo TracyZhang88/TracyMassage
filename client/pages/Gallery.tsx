@@ -23,7 +23,7 @@ export default function Gallery() {
             key={i}
             src={src}
             alt={`Studio photo ${i + 1}`}
-            className={`w-full aspect-[4/3] object-cover rounded-lg border ${i === 2 || i === 3 ? "transform rotate-90 lg:mt-24" : ""}`}
+            className="w-full aspect-[4/3] object-cover rounded-lg border"
           />
         ))}
       </div>
