@@ -28,7 +28,7 @@ export default function Price() {
         <div className="bg-card p-6 rounded-lg border">
           <h3 className="font-semibold mb-4">Visit Us</h3>
           <div className="space-y-2 text-sm text-muted-foreground">
-            <p><span className="font-medium text-foreground">Address:</span> 130 Mann Street Gosford NSW 2250 - 0435291625</p>
+            <p><span className="font-medium text-foreground">Address:</span> 135 Mann Street Gosford NSW 2250 - 0435291625</p>
             <p><span className="font-medium text-foreground">Address:</span> 92 Pacific Highway Wyong NSW 2259 - 0452648896</p>
           </div>
         </div>
