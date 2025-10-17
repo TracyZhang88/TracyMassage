@@ -46,6 +46,7 @@ export default function Header() {
         <nav className="hidden md:flex items-center gap-6 text-sm">
           {[
             { to: "/", label: "Home" },
+            { to: "/price", label: "Price" },
             { to: "/about", label: "About Us" },
             { to: "/gallery", label: "Gallery" },
             { to: "/contact", label: "Contact Us" },
@@ -85,6 +86,7 @@ export default function Header() {
               <nav className="grid gap-4 text-base">
                 {[
                   { to: "/", label: "Home" },
+                  { to: "/price", label: "Price" },
                   { to: "/about", label: "About Us" },
                   { to: "/gallery", label: "Gallery" },
                   { to: "/contact", label: "Contact Us" },
