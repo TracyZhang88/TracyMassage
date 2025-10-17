@@ -48,7 +48,7 @@ export default function Team() {
     {
       name: "Cindy - at Wyong",
       role: "Hot Stone & Relaxation",
-      img: "https://images.unsplash.com/photo-1542596768-5d1d21f1cf98?w=800&auto=format&fit=crop&q=60",
+      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F329dc96562f248618106fd7111598c27?format=webp&width=800",
       specialties: "Hot Stone, Aromatherapy, Calming Flow",
       experience: "4 years",
       languages: "English, Cantonese",
