@@ -46,7 +46,7 @@ export default function Team() {
       bio: "Energizing techniques to aid mobility, reduce soreness, and speed recovery.",
     },
     {
-      name: "Mia Li",
+      name: "Cindy - at Wyong",
       role: "Hot Stone & Relaxation",
       img: "https://images.unsplash.com/photo-1542596768-5d1d21f1cf98?w=800&auto=format&fit=crop&q=60",
       specialties: "Hot Stone, Aromatherapy, Calming Flow",
