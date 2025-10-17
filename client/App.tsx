@@ -11,7 +11,6 @@ import NotFound from "./pages/NotFound";
 import Team from "./pages/Team";
 import Contact from "./pages/Contact";
 import AdminAppointments from "./pages/AdminAppointments";
-import AboutUs from "./pages/AboutUs";
 import Gallery from "./pages/Gallery";
 import Employment from "./pages/Employment";
 import Price from "./pages/Price";
@@ -32,7 +31,6 @@ const App = () => (
             <Route path="/team" element={<Team />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/appointments" element={<Contact />} />
-            <Route path="/about" element={<AboutUs />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/employment" element={<Employment />} />
             <Route path="/price" element={<Price />} />
