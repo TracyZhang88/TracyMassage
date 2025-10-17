@@ -25,12 +25,6 @@ export default function Price() {
           </div>
         </div>
 
-        <img 
-          src="https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F037c088127194fdfbb0d056915221cd8?format=webp&width=800"
-          alt="Massage service"
-          className="w-full rounded-lg shadow-lg mb-8"
-        />
-
         <div className="bg-card p-6 rounded-lg border">
           <h3 className="font-semibold mb-4">Visit Us</h3>
           <div className="space-y-2 text-sm text-muted-foreground">
