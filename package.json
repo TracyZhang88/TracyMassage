@@ -130,6 +130,8 @@
       "@swc/core",
       "esbuild",
       "@swc/core",
+      "esbuild",
+      "@swc/core",
       "esbuild"
     ]
   }
