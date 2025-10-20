@@ -1,18 +1,10 @@
 {
-  "builds": [
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist/spa",
+  "rewrites": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist/spa",
-        "buildCommand": "pnpm build"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
