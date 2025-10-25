@@ -2,8 +2,8 @@ export default function Gallery() {
   const row1 = [
     "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fa57d26a32d1c49c0931625c6c4322b69?format=webp&width=800",
     "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F46cde2f5cea642a384f5a792522b0fb5?format=webp&width=800",
-    "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F71dc3e24eb424d51abe8a12032076d0f?format=webp&width=800",
-    "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fe21501bf5d334c8499c7da2ca58dd678?format=webp&width=800",
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F361bcaed9a94461294a68f359a3074e8?format=webp&width=800",
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F22279dc45a5b410d8d8615a4ce40c5e4?format=webp&width=800",
   ];
 
   const row2 = [
