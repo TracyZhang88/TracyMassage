@@ -31,7 +31,7 @@ export default function Contact() {
             Address: 92-94 Pacific Highway, Wyong NSW 2259
           </div>
           <div className="text-sm mt-1">
-            Opening hour: 8:00 AM – 10:00 PM, Monday to Sunday
+            Opening hour: 8:00 AM – 10:30 PM, Monday to Sunday
           </div>
           <div className="text-sm mt-1">
             Contact:{" "}
