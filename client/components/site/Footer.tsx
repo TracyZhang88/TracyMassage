@@ -11,7 +11,7 @@ export default function Footer() {
         <div>
           <div className="font-medium mb-3">Hours</div>
           <ul className="space-y-1 text-sm text-muted-foreground">
-            <li>Wyong: 8:00 AM – 10:00 PM (Mon–Sun)</li>
+            <li>Wyong: 8:00 AM – 10:30 PM (Mon–Sun)</li>
             <li>Gosford: 9:00 AM – 9:00 PM (Mon–Sun)</li>
           </ul>
         </div>
