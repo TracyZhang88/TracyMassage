@@ -28,7 +28,7 @@ export default function Contact() {
         <div className="rounded-xl border bg-card p-5">
           <div className="font-semibold">AAA massage at Wyong</div>
           <div className="text-sm text-muted-foreground mt-2">
-            Address: 92-94 Pacific Highway, Central Coast NSW 2259
+            Address: 92-94 Pacific Highway, Wyong NSW 2259
           </div>
           <div className="text-sm mt-1">
             Opening hour: 8:00 AM – 10:00 PM, Monday to Sunday
