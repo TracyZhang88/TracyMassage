@@ -6,6 +6,13 @@ export default function Gallery() {
     "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F22279dc45a5b410d8d8615a4ce40c5e4?format=webp&width=800",
   ];
 
+  const rowMiddle = [
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F3ac64b61d7fd4885aaddef759358ae67?format=webp&width=800",
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F45660f2405ae422984089d474b24dc17?format=webp&width=800",
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F542e11ba34e4450c80fbf83b2a096781?format=webp&width=800",
+    "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Fc3691ec2dd8f4185b307114083feb88d?format=webp&width=800",
+  ];
+
   const row2 = [
     "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F4a07b3b0881345b2be52d5a0df98712e?format=webp&width=800",
     "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F9b1b9f11d5e04fe7a97c29535880bd8a?format=webp&width=800",
@@ -37,6 +44,16 @@ export default function Gallery() {
               key={i}
               src={src}
               alt={`Studio photo ${[1, 2, 5, 6][i]}`}
+              className="w-full aspect-[4/3] object-cover rounded-lg border"
+            />
+          ))}
+        </div>
+        <div className="grid gap-4 grid-cols-4">
+          {rowMiddle.map((src, i) => (
+            <img
+              key={i}
+              src={src}
+              alt={`Studio photo ${11 + i}`}
               className="w-full aspect-[4/3] object-cover rounded-lg border"
             />
           ))}
