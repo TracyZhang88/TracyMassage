@@ -37,7 +37,7 @@ export default function Team() {
       bio: "Focused, restorative work targeting chronic tension and posture-related discomfort.",
     },
     {
-      name: "Amy",
+      name: "Amy - at Wyong",
       role: "Sports & Recovery Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff448669e854242a6b21d4e157b7ef82a?format=webp&width=800",
       specialties: "Relaxation massage, Oil massage",
@@ -55,7 +55,7 @@ export default function Team() {
       bio: "Gentle, soothing approach perfect for deep relaxation and stress relief.",
     },
     {
-      name: "Marina",
+      name: "Mia - at Gosford",
       role: "Remedial Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fdb8a7936f4d14a19879d6d4945ec961b?format=webp&width=800",
       specialties: "Relaxation oil massage, Remedial, Trigger Point",
@@ -64,7 +64,7 @@ export default function Team() {
       bio: "Combines remedial methods with calming flow for balanced recovery and relaxation.",
     },
     {
-      name: "Angela - at Gosford",
+      name: "Michelle - at Gosford",
       role: "Therapeutic Specialist",
       img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F59f5c96bebdd4387b0cf4e90be66463b?format=webp&width=800",
       specialties: "Aromatherapy, Full‑Body Relaxation",
@@ -73,7 +73,7 @@ export default function Team() {
       bio: "Creates a serene experience using essential oils and flowing techniques.",
     },
     {
-      name: "Ada",
+      name: "Gigi - at Gosford",
       role: "Relaxation Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff0aa9169550a40c487d88f7651801561?format=webp&width=800",
       specialties: "Oil massage, Relaxation massage",
