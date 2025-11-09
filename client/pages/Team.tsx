@@ -54,6 +54,33 @@ export default function Team() {
       languages: "English, Cantonese",
       bio: "Gentle, soothing approach perfect for deep relaxation and stress relief.",
     },
+    {
+      name: "Marina",
+      role: "Remedial Therapist",
+      img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fdb8a7936f4d14a19879d6d4945ec961b?format=webp&width=800",
+      specialties: "Relaxation oil massage, Remedial, Trigger Point",
+      experience: "2 Year",
+      languages: "English, Chinese",
+      bio: "Combines remedial methods with calming flow for balanced recovery and relaxation.",
+    },
+    {
+      name: "Angela - at Gosford",
+      role: "Therapeutic Specialist",
+      img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2F59f5c96bebdd4387b0cf4e90be66463b?format=webp&width=800",
+      specialties: "Aromatherapy, Full‑Body Relaxation",
+      experience: "3 Years",
+      languages: "English, Mandarin, Cantonese",
+      bio: "Creates a serene experience using essential oils and flowing techniques.",
+    },
+    {
+      name: "Ada",
+      role: "Relaxation Therapist",
+      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff0aa9169550a40c487d88f7651801561?format=webp&width=800",
+      specialties: "Oil massage, Relaxation massage",
+      experience: "4 years",
+      languages: "English, Chinese",
+      bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
+    },
   ];
 
   return (
