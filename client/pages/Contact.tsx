@@ -15,7 +15,7 @@ export default function Contact() {
             Address: 135 Mann St, Gosford NSW 2250
           </div>
           <div className="text-sm mt-1">
-            Opening hour: 9:00 AM – 9:00 PM, Monday to Sunday
+            Opening hour: 8:00 AM – 10:00 PM, Monday to Sunday
           </div>
           <div className="text-sm mt-1">
             Contact:{" "}
