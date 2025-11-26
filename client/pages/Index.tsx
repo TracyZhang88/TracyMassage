@@ -119,7 +119,7 @@ export default function Index() {
               135 Mann St, Gosford NSW 2250
             </div>
             <div className="text-sm mt-1">
-              Open: 9:00 AM – 9:00 PM, Monday to Sunday
+              Open: 8:00 AM – 10:00 PM, Monday to Sunday
             </div>
             <div className="text-sm mt-1">
               Phone:{" "}
