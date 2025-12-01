@@ -57,7 +57,7 @@ export default function Team() {
     {
       name: "Leena - at Wyong",
       role: "Remedial Therapist",
-      img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fdb8a7936f4d14a19879d6d4945ec961b?format=webp&width=800",
+      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Fc2116812e94f435291c7c4b9d2e3d89a?format=webp&width=800",
       specialties: "Relaxation oil massage, Remedial, Trigger Point",
       experience: "2 Year",
       languages: "English, Thai",
