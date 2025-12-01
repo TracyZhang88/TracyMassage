@@ -73,7 +73,7 @@ export default function Team() {
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
     {
-      name: "Ada",
+      name: "Michelle - at Gosford",
       role: "Relaxation Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff0aa9169550a40c487d88f7651801561?format=webp&width=800",
       specialties: "Oil massage, Relaxation massage",
