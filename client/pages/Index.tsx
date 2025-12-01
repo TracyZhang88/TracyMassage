@@ -104,7 +104,7 @@ export default function Index() {
               92 Pacific Hwy, Wyong NSW 2259
             </div>
             <div className="text-sm mt-1">
-              Open: 8:00 AM – 10:00 PM, Monday to Sunday
+              Open: 8:00 AM – 10:30 PM, Monday to Sunday
             </div>
             <div className="text-sm mt-1">
               Phone:{" "}
