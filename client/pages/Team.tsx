@@ -55,12 +55,12 @@ export default function Team() {
       bio: "Gentle, soothing approach perfect for deep relaxation and stress relief.",
     },
     {
-      name: "Mia - at Gosford",
+      name: "Leena - at Wyong",
       role: "Remedial Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2Fc1d3c746f2fe41db8552730b9a805170%2Fdb8a7936f4d14a19879d6d4945ec961b?format=webp&width=800",
       specialties: "Relaxation oil massage, Remedial, Trigger Point",
       experience: "2 Year",
-      languages: "English, Chinese",
+      languages: "English, Thai",
       bio: "Combines remedial methods with calming flow for balanced recovery and relaxation.",
     },
     {
