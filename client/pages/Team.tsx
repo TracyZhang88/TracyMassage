@@ -66,7 +66,7 @@ export default function Team() {
     {
       name: "Gigi - at Gosford",
       role: "Relaxation Therapist",
-      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff0aa9169550a40c487d88f7651801561?format=webp&width=800",
+      img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F694071ff967d467da3ec4bad4669b980?format=webp&width=800",
       specialties: "Oil massage, Relaxation massage",
       experience: "4 years",
       languages: "English, Cantonese, Mandarin",
