@@ -37,7 +37,7 @@ export default function Team() {
       bio: "Focused, restorative work targeting chronic tension and posture-related discomfort.",
     },
     {
-      name: "Amy",
+      name: "Amy - at Wyong",
       role: "Sports & Recovery Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Ff448669e854242a6b21d4e157b7ef82a?format=webp&width=800",
       specialties: "Relaxation massage, Oil massage",
