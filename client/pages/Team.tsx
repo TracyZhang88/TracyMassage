@@ -28,12 +28,12 @@ export default function Team() {
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
     {
-      name: "Cece - at Wyong",
+      name: "Lucy - at Wyong",
       role: "Deep Tissue Specialist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Fb4fc5ee35b744ac5a9f2624aee23ca5d?format=webp&width=800",
       specialties: "Deep Tissue, Trigger Point, Myofascial Release",
-      experience: "6 years",
-      languages: "English, Mandarin",
+      experience: "5 years",
+      languages: "Japanese, English, Mandarin",
       bio: "Focused, restorative work targeting chronic tension and posture-related discomfort.",
     },
     {
@@ -73,12 +73,12 @@ export default function Team() {
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
     {
-      name: "Michelle - at Gosford",
+      name: "Sarah - Aussie Ladyboy(Saturday only 10 am to 6 pm) - at Wyong",
       role: "Relaxation Therapist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2F317e7e23d48440a8bcd6a568c1e18979?format=webp&width=800",
       specialties: "Oil massage, Relaxation massage",
       experience: "4 years",
-      languages: "English, Chinese",
+      languages: "English only",
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
   ];
