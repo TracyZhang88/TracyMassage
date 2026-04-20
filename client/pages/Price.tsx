@@ -9,19 +9,19 @@ export default function Price() {
         <div className="space-y-4 mb-8">
           <div className="flex justify-between items-center border-b pb-2">
             <span className="text-lg">30 Minutes</span>
-            <span className="text-lg font-semibold">$50</span>
+            <span className="text-lg font-semibold">$60</span>
           </div>
           <div className="flex justify-between items-center border-b pb-2">
             <span className="text-lg">45 Minutes</span>
-            <span className="text-lg font-semibold">$70</span>
-          </div>
-          <div className="flex justify-between items-center border-b pb-2">
-            <span className="text-lg">60 Minutes</span>
             <span className="text-lg font-semibold">$80</span>
           </div>
           <div className="flex justify-between items-center border-b pb-2">
+            <span className="text-lg">60 Minutes</span>
+            <span className="text-lg font-semibold">$100</span>
+          </div>
+          <div className="flex justify-between items-center border-b pb-2">
             <span className="text-lg">90 Minutes</span>
-            <span className="text-lg font-semibold">$130</span>
+            <span className="text-lg font-semibold">$150</span>
           </div>
         </div>
 
