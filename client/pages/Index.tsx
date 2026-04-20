@@ -65,8 +65,8 @@ export default function Index() {
               ensure attentive care for every guest.
               <br />
               <br />
-              Pricing is simple and accessible: $50 for 30 minutes, $70 for 45
-              minutes, and $80 for 60 minutes.
+              Pricing is simple and accessible: $60 for 30 minutes, $80 for 45
+              minutes, and $100 for 60 minutes.
             </p>
             <div className="mt-6 flex items-center gap-3">
               <Button asChild>
@@ -119,7 +119,7 @@ export default function Index() {
               135 Mann St, Gosford NSW 2250
             </div>
             <div className="text-sm mt-1">
-              Open: 8:00 AM – 10:00 PM, Monday to Sunday
+              Open: 8:00 AM – 10:30 PM, Monday to Sunday
             </div>
             <div className="text-sm mt-1">
               Phone:{" "}
