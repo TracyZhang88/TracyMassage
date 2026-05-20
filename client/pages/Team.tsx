@@ -28,11 +28,11 @@ export default function Team() {
       bio: "Soothing, nurturing style ideal for stress relief and better sleep.",
     },
     {
-      name: "Lucy - at Wyong",
+      name: "Mali - at Wyong",
       role: "Deep Tissue Specialist",
       img: "https://cdn.builder.io/api/v1/image/assets%2F1534224983ee4fa8aa247727ffcbd7d6%2Fb4fc5ee35b744ac5a9f2624aee23ca5d?format=webp&width=800",
       specialties: "Deep Tissue, Trigger Point, Myofascial Release",
-      experience: "5 years",
+      experience: "3 years",
       languages: "Japanese, English, Mandarin",
       bio: "Focused, restorative work targeting chronic tension and posture-related discomfort.",
     },
